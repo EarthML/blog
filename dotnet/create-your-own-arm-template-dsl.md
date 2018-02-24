@@ -11,7 +11,7 @@ author:
   url: https://twitter.com/pksorensen
   avatar: https://s.gravatar.com/avatar/9003d0ada00ae43a199d7a5fa1be7714?s=80
 design:
-  bg_color: #0D3483
+  bg_color: "#0D3483"
 tags:
 - Docker Pipelines
 - AspNet core
